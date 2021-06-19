@@ -1,0 +1,139 @@
+header{
+  display: flex;
+  justify-content: space-between;
+  width: 80%;
+  margin-left: 10%;
+  align-items: center;
+  height: 100px;
+}
+#hSec1{
+  align-items: center;
+  display: flex;
+}
+#hSec12{
+  margin-left: 10px;
+  display: grid;
+}
+#del{
+  font-family: 'Just Another Hand', cursive;
+  font-size: 50px;
+}
+#BEST{
+  font-family: 'Roboto Condensed', sans-serif;
+  font-size: 12px;
+}
+#leftMar{
+  margin-left: 10px;
+}
+main hr{
+  width: 80%;
+  border:0;
+    height:20px;
+    background:url(../images/hr-img.png);
+    margin-bottom: 20px;
+}
+#main1{
+  width: 80%;
+  margin-left: 10%;
+  display: flex;
+  justify-content: space-between;
+  font-size: 12px;
+}
+#main1 div:nth-child(1) {
+  font-family: 'Oswald', sans-serif;
+  font-size: 50px;
+}
+#main1 div:nth-child(2) {
+  font-family: 'Roboto Condensed', sans-serif;
+  font-size: 15px;
+  margin-top: 10px;
+}
+#print{
+  display: flex;
+  height: 10px;
+  font-family: 'Roboto Condensed', sans-serif;
+  align-self: flex-end;
+}
+#main2 img{
+  width: 80%;
+  margin-left: 10%;
+  margin-top: 40px;
+  margin-bottom: 20px;
+}
+#main2 p{
+  width: 80%;
+  margin-left: 10%;
+  margin-bottom: 30px;
+  font-size: 20px;
+  text-indent: 50px;
+}
+#main3{
+  height: 400px;
+  background-image: url(../images/list-bg.png);
+  background-position: center;
+  background-repeat: no-repeat;
+  display: flex;
+  line-height: 2.5;
+  margin-bottom: 50px;
+  align-items: center;
+  justify-content: center;
+  gap: 100px;
+}
+li{
+  width: 250px;
+  font-size: 17px;
+}
+#no{
+  text-decoration: line-through;
+}
+#main4{
+  margin-top: 50px;
+  width: 80%;
+  margin-left: 10%;
+  display: flex;
+  align-items: center;
+  line-height: 2;
+  gap: 30px;
+}
+#main4 a{
+  text-decoration: none;
+  color: white;
+  background-color: rgb(201, 31, 31);
+  font-family: 'Roboto Condensed', sans-serif;
+  padding: 20px;
+  font-size: 20px;
+  margin-left: 325px;
+}
+#p1 {
+font-size: 40px;
+font-weight: 700;
+}
+#p2{
+  font-size: 20px;
+  width: 600px;
+}
+footer{
+  height: 200px;
+  
+}
+footer section hr{
+  width: 50%;
+  height: 0px;
+}
+footer section{
+  display: flex;
+  width: 80%;
+  margin-left: 10%;
+  align-items: center;
+  margin-top: 30px;
+}
+footer img{
+  margin-left: 10px;
+  margin-right: 10px;
+}
+footer p{
+  text-align: center; 
+}
+#pp1{
+  margin-top: 30px;
+}
